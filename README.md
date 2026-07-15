@@ -1,2 +1,2 @@
 # klass
-Opens-source, free lessons for all students
+Open-source, free lessons for all students
